@@ -171,23 +171,10 @@ FROM hotel h;
    - Enhanced reporting capabilities
    - Advanced search filters
 
-## Video Presentation Timestamps
-
-| Section | Start Time |
-|---------|------------|
-| Technologies Overview | 00:00 |
-| Database Schema | 02:00 |
-| Integrity Constraints | 04:00 |
-| Data Population | 06:00 |
-| SQL Queries Demo | 08:00 |
-| Triggers Demo | 10:00 |
-| Indexes Overview | 12:00 |
-| Views Demo | 13:00 |
-| UI Walkthrough | 14:00 |
 
 ## Contributors
-- [Student Name]
-- Student ID: [ID]
+- Avnish Dip
+- Student ID: 300176591
 - Course: CSI2132 Databases I
 - Professor: Verena Kantere
 - Winter 2024-25
